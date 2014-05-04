@@ -337,7 +337,7 @@
 		height: 100%;
 		overflow: hidden;
 		z-index: -10;
-		background-color: #135963;
+		background-color: #135963; /*an aqua teal*/
 		border: 1px solid red;
 	}
 
