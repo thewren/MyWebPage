@@ -110,10 +110,15 @@
 		border-left: 1px solid black;
 	}
 
+	.allcontent	{
+		border: 1px solid red;
+	}
+
 	.maincontent	{
 		clear: both;
 		width: 100%;
 		padding-top: 2%;
+
 	}
 
 
@@ -219,7 +224,7 @@
 
 		display: inline-block;
 		float: right;
-		background-color: green;
+		background-color: #123456;
 	}
 
 	.triangle-up	{
@@ -321,7 +326,7 @@
 		height: 100%;
 		margin-left: 14%;
 		padding-top: 24px; padding-left: 12px;
-		background-color: white;
+		background-color: #11516D;
 
 
 	}
@@ -332,7 +337,7 @@
 		height: 100%;
 		overflow: hidden;
 		z-index: -10;
-		background-color: #123456;
+		background-color: #135963;
 		border: 1px solid red;
 	}
 
