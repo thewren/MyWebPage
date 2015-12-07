@@ -111,7 +111,6 @@
 	}
 
 	.allcontent	{
-		border: 1px solid red;
 	}
 
 	.maincontent	{
@@ -221,7 +220,6 @@
 		width: 14%;
 		height: 100%;
 		padding-top: 1%; padding-bottom: 0%; padding-left: 2%; padding-right: 2%;
-
 		display: inline-block;
 		float: right;
 		background-color: #123456;
@@ -280,7 +278,7 @@
 		z-index: -1;
 		
 	}
-/*
+/* Pending removal
 	.logo-cir-ghost-leg-left	{
 		position: absolute;
 		width: 12px;
@@ -338,7 +336,6 @@
 		overflow: hidden;
 		z-index: -10;
 		background-color: #135963; /*an aqua teal*/
-		border: 1px solid red;
 	}
 
 
